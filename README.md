@@ -69,7 +69,7 @@ MCPX是一个开源项目，我们诚挚邀请各位开发者参与贡献。您�
 
 ## 📬 联系我们
 
-- **GitHub Issues**：[提交问题或建议](https://github.com/your-org/mcpx/issues)
+- **GitHub Issues**：[提交问题或建议](https://github.com/evanow-chat/mcpx/issues)
 - **社区交流群**：扫描下方二维码加入飞书讨论群
   <p>
     <img src="./docs/images/feishu_qrcode.png" width="100" alt="飞书讨论群二维码" />
